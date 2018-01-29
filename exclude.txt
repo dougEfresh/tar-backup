@@ -1,24 +1,24 @@
- /proc 
- /usr/bin 
- /bin
- /sbin
- /var/lib
- /lib
- /usr/src
- /usr/sbin
- /usr/lib
- /tmp
- /mnt
- /dev
- /sys
- /run
- /media
- /var/log
- /var/cache/apt/archives
- /usr/src
- /usr/share
- /data/postgresql
- /data/backup
- /var/spool/postfix
- /home/dougEfresh/go
- pgdump.sql.gz
+/proc 
+/usr/bin 
+/bin
+/sbin
+/var/lib
+/lib
+/usr/src
+/usr/sbin
+/usr/lib
+/tmp
+/mnt
+/dev
+/sys
+/run
+/media
+/var/log
+/var/cache/apt/archives
+/usr/src
+/usr/share
+/data/postgresql
+/data/backup
+/var/spool/postfix
+/home/dougEfresh/go
+pgdump.sql.gz
